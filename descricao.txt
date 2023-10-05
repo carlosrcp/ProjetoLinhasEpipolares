@@ -1,0 +1,6 @@
+5.Dedução da matriz fundamental
+O sistema deverá tomar duas imagens de uma mesma cena, mas tomadas de ângulos distintos,
+de uma mesma câmera, com parâmetros intrínsecos conhecidos, e encontrar a matriz
+fundamental. Para isso deverá encontrar uma certa quantidade de “pontos de interesse”
+(correspondências), fazer a calibração das câmeras e depois desenhar retas epipolares
+relevantes correspondentes nas duas imagens.-&gt;1 pessoa
