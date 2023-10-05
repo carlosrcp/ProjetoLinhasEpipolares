@@ -8,7 +8,7 @@ Bibliotecas:
 
 Use imagens com prefixo "image1" e "image2" na pasta imagens e edite o suffix no começo do código como estão nos exemplos.
 
-Imagens muito com resoluções muito grandes podem gerar problemas no ajuste de tela.
+Imagens com resoluções muito grandes podem gerar problemas no ajuste de tela.
 
 
 projeto_setup.py (configuração)
